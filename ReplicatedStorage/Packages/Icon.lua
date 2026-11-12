@@ -1,0 +1,1 @@
+return require(script.Parent._Index["kumarion_icon@0.0.2"].icon)

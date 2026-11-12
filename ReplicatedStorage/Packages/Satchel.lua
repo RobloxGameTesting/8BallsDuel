@@ -1,0 +1,1 @@
+return require(script.Parent._Index["decryptable_satchel@1.5.1"].satchel)

@@ -1,0 +1,8 @@
+game:GetService("ReplicatedStorage")
+local RunService = game:GetService("RunService")
+
+RunService:IsServer()
+
+return function(p, p2, p3)
+	p.Data.shop[p2] = p3
+end

@@ -1,0 +1,6 @@
+return {
+	SPRINT_SPEED = 30,
+	DOUBLE_JUMP_HEIGHT = 20,
+	SPRINT_ON_INIT = false,
+	SPRINT_STAMINA = 1e999
+}
